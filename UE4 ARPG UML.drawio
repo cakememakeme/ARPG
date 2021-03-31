@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-03-30T14:57:06.132Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="gMZUfnSAFJX4dBpfe6Bf" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-31T04:25:16.086Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="M9VPBDT0MxQ1CMRCNwPH" version="14.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3555" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="6000" background="#EEEEEE" math="0" shadow="0">
+    <mxGraphModel dx="2844" dy="1544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="6000" background="#EEEEEE" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="LvGwFXpLTnDkfGoCwhkf-7" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=#d79b00;fontFamily=Verdana;fillColor=#FFD6CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LvGwFXpLTnDkfGoCwhkf-7" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=#d79b00;fontFamily=Verdana;fillColor=#FFD6CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1210" y="1350" width="690" height="250" as="geometry" />
         </mxCell>
         <mxCell id="AAZlV12Gzx9VgUJV0CkU-552" value="" style="html=1;fontFamily=Verdana;fontStyle=1;fillColor=#97D077;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -1394,7 +1394,7 @@
         <mxCell id="AAZlV12Gzx9VgUJV0CkU-427" value="+Execute_Implementation()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Verdana;fontColor=#5A00B5;" parent="AAZlV12Gzx9VgUJV0CkU-423" vertex="1">
           <mxGeometry y="60" width="205" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="LvGwFXpLTnDkfGoCwhkf-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;curved=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LvGwFXpLTnDkfGoCwhkf-0" target="52jS_4H1RukoPa2EfRk2-100">
+        <mxCell id="LvGwFXpLTnDkfGoCwhkf-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;curved=1;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LvGwFXpLTnDkfGoCwhkf-0" target="52jS_4H1RukoPa2EfRk2-100" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="510" y="660" />
@@ -1402,97 +1402,97 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LvGwFXpLTnDkfGoCwhkf-0" value="게임 저장에 관련된 데이터와 기능을 담당&lt;br&gt;&lt;br&gt;USaveGame에서 실제 정보를 받아온다" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFD6CC;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LvGwFXpLTnDkfGoCwhkf-0" value="게임 저장에 관련된 데이터와 기능을 담당&lt;br&gt;&lt;br&gt;USaveGame에서 실제 정보를 받아온다" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFD6CC;sketch=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="310" y="590" width="280" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="LvGwFXpLTnDkfGoCwhkf-3" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LvGwFXpLTnDkfGoCwhkf-2" target="52jS_4H1RukoPa2EfRk2-148">
+        <mxCell id="LvGwFXpLTnDkfGoCwhkf-3" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LvGwFXpLTnDkfGoCwhkf-2" target="52jS_4H1RukoPa2EfRk2-148" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LvGwFXpLTnDkfGoCwhkf-2" value="게임 저장에 실질적으로 필요한 데이터를 담당&lt;br&gt;&lt;br&gt;예제에서는 저장할 정보가 인벤토리 정보밖에 없다" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFD6CC;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LvGwFXpLTnDkfGoCwhkf-2" value="게임 저장에 실질적으로 필요한 데이터를 담당&lt;br&gt;&lt;br&gt;예제에서는 저장할 정보가 인벤토리 정보밖에 없다" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFD6CC;sketch=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1080" y="1050" width="310" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="LvGwFXpLTnDkfGoCwhkf-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LvGwFXpLTnDkfGoCwhkf-4" target="52jS_4H1RukoPa2EfRk2-194">
+        <mxCell id="LvGwFXpLTnDkfGoCwhkf-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LvGwFXpLTnDkfGoCwhkf-4" target="52jS_4H1RukoPa2EfRk2-194" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LvGwFXpLTnDkfGoCwhkf-4" value="게임 로직을 구성하는 네이티브 코드를 블루프린트에 노출하기 위해 추가적으로 구현시킨 블루프린트 함수들" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFD6CC;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LvGwFXpLTnDkfGoCwhkf-4" value="게임 로직을 구성하는 네이티브 코드를 블루프린트에 노출하기 위해 추가적으로 구현시킨 블루프린트 함수들" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFD6CC;sketch=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1800" y="1170" width="370" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="LvGwFXpLTnDkfGoCwhkf-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LvGwFXpLTnDkfGoCwhkf-6" target="AAZlV12Gzx9VgUJV0CkU-87">
+        <mxCell id="LvGwFXpLTnDkfGoCwhkf-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LvGwFXpLTnDkfGoCwhkf-6" target="AAZlV12Gzx9VgUJV0CkU-87" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LvGwFXpLTnDkfGoCwhkf-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LvGwFXpLTnDkfGoCwhkf-6" target="AAZlV12Gzx9VgUJV0CkU-94">
+        <mxCell id="LvGwFXpLTnDkfGoCwhkf-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LvGwFXpLTnDkfGoCwhkf-6" target="AAZlV12Gzx9VgUJV0CkU-94" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LvGwFXpLTnDkfGoCwhkf-6" value="게임플레이에서 상효작용 대상 정보, 작용 효과 등을 정의하는 구조체&lt;br&gt;오른쪽 구조체는 컨테이너 정의만 되어 있다가&lt;br&gt;런타임에 Spec 구조체로 변환된다" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFD6CC;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LvGwFXpLTnDkfGoCwhkf-6" value="게임플레이에서 상효작용 대상 정보, 작용 효과 등을 정의하는 구조체&lt;br&gt;오른쪽 구조체는 컨테이너 정의만 되어 있다가&lt;br&gt;런타임에 Spec 구조체로 변환된다" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFD6CC;sketch=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1380" y="1620" width="380" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="LvGwFXpLTnDkfGoCwhkf-8" value="RPGAbilityTypes.h" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LvGwFXpLTnDkfGoCwhkf-8" value="RPGAbilityTypes.h" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1210" y="1350" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LvGwFXpLTnDkfGoCwhkf-12" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LvGwFXpLTnDkfGoCwhkf-11" target="52jS_4H1RukoPa2EfRk2-180">
+        <mxCell id="LvGwFXpLTnDkfGoCwhkf-12" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LvGwFXpLTnDkfGoCwhkf-11" target="52jS_4H1RukoPa2EfRk2-180" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LvGwFXpLTnDkfGoCwhkf-11" value="게임에 사용될 에셋 타입을 선언하고&lt;br&gt;기능들을 재정의하는 에셋 매니저 클래스" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFD6CC;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LvGwFXpLTnDkfGoCwhkf-11" value="게임에 사용될 에셋 타입을 선언하고&lt;br&gt;기능들을 재정의하는 에셋 매니저 클래스" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFD6CC;sketch=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2300" y="1066" width="300" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="LvGwFXpLTnDkfGoCwhkf-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LvGwFXpLTnDkfGoCwhkf-14" target="52jS_4H1RukoPa2EfRk2-192">
+        <mxCell id="LvGwFXpLTnDkfGoCwhkf-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LvGwFXpLTnDkfGoCwhkf-14" target="52jS_4H1RukoPa2EfRk2-192" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LvGwFXpLTnDkfGoCwhkf-14" value="아이템을 비동기로 로드하는 함수&lt;br&gt;히치(프레임 튐)현상이 있을 수 있다&lt;br&gt;참조 유지를 안해 가비지를 수집하니&lt;br&gt;다른 방식으로 로드해야 한다" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFD6CC;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LvGwFXpLTnDkfGoCwhkf-14" value="아이템을 비동기로 로드하는 함수&lt;br&gt;히치(프레임 튐)현상이 있을 수 있다&lt;br&gt;참조 유지를 안해 가비지를 수집하니&lt;br&gt;다른 방식으로 로드해야 한다" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFD6CC;sketch=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2030" y="990" width="260" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="LvGwFXpLTnDkfGoCwhkf-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LvGwFXpLTnDkfGoCwhkf-16" target="AAZlV12Gzx9VgUJV0CkU-129">
+        <mxCell id="LvGwFXpLTnDkfGoCwhkf-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LvGwFXpLTnDkfGoCwhkf-16" target="AAZlV12Gzx9VgUJV0CkU-129" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3120" y="980" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LvGwFXpLTnDkfGoCwhkf-16" value="게임의 모든 아이템들에 대한 베이스 클래스" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFD6CC;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LvGwFXpLTnDkfGoCwhkf-16" value="게임의 모든 아이템들에 대한 베이스 클래스" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFD6CC;sketch=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2970" y="830" width="300" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="LvGwFXpLTnDkfGoCwhkf-19" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LvGwFXpLTnDkfGoCwhkf-18" target="AAZlV12Gzx9VgUJV0CkU-182">
+        <mxCell id="LvGwFXpLTnDkfGoCwhkf-19" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LvGwFXpLTnDkfGoCwhkf-18" target="AAZlV12Gzx9VgUJV0CkU-182" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4080" y="1490" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LvGwFXpLTnDkfGoCwhkf-18" value="인벤토리 처리를 주로 하는 것을 볼 수 있다" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFD6CC;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LvGwFXpLTnDkfGoCwhkf-18" value="인벤토리 처리를 주로 하는 것을 볼 수 있다" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFD6CC;sketch=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="3930" y="1300" width="300" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="LvGwFXpLTnDkfGoCwhkf-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LvGwFXpLTnDkfGoCwhkf-20" target="AAZlV12Gzx9VgUJV0CkU-238">
+        <mxCell id="LvGwFXpLTnDkfGoCwhkf-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LvGwFXpLTnDkfGoCwhkf-20" target="AAZlV12Gzx9VgUJV0CkU-238" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LvGwFXpLTnDkfGoCwhkf-20" value="게임 어빌리티 시스템을 사용하는 모든 속성을 정의&lt;br&gt;시스템을 사용하는 모든 캐릭터는 이 속성을 복사한다" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFD6CC;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LvGwFXpLTnDkfGoCwhkf-20" value="게임 어빌리티 시스템을 사용하는 모든 속성을 정의&lt;br&gt;시스템을 사용하는 모든 캐릭터는 이 속성을 복사한다" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFD6CC;sketch=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="5460" y="1199" width="330" height="101" as="geometry" />
         </mxCell>
-        <mxCell id="LvGwFXpLTnDkfGoCwhkf-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LvGwFXpLTnDkfGoCwhkf-22" target="AAZlV12Gzx9VgUJV0CkU-352">
+        <mxCell id="LvGwFXpLTnDkfGoCwhkf-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LvGwFXpLTnDkfGoCwhkf-22" target="AAZlV12Gzx9VgUJV0CkU-352" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LvGwFXpLTnDkfGoCwhkf-22" value="게임 어빌리티 시스템의 하위 클래스&lt;br&gt;시스템을 사용하는 데이터를 포함하고, 다룬다" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFD6CC;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LvGwFXpLTnDkfGoCwhkf-22" value="게임 어빌리티 시스템의 하위 클래스&lt;br&gt;시스템을 사용하는 데이터를 포함하고, 다룬다" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFD6CC;sketch=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="6090" y="1157.5" width="260" height="72.5" as="geometry" />
         </mxCell>
-        <mxCell id="LvGwFXpLTnDkfGoCwhkf-26" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LvGwFXpLTnDkfGoCwhkf-24" target="AAZlV12Gzx9VgUJV0CkU-375">
+        <mxCell id="LvGwFXpLTnDkfGoCwhkf-26" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LvGwFXpLTnDkfGoCwhkf-24" target="AAZlV12Gzx9VgUJV0CkU-375" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LvGwFXpLTnDkfGoCwhkf-24" value="애니메이션 관련" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFD6CC;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LvGwFXpLTnDkfGoCwhkf-24" value="애니메이션 관련" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFD6CC;sketch=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="7110" y="1282.5" width="260" height="72.5" as="geometry" />
         </mxCell>
-        <mxCell id="LvGwFXpLTnDkfGoCwhkf-28" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LvGwFXpLTnDkfGoCwhkf-27" target="AAZlV12Gzx9VgUJV0CkU-395">
+        <mxCell id="LvGwFXpLTnDkfGoCwhkf-28" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LvGwFXpLTnDkfGoCwhkf-27" target="AAZlV12Gzx9VgUJV0CkU-395" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="7880" y="556" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LvGwFXpLTnDkfGoCwhkf-27" value="상호작용 타게팅을 위한 클래스&lt;br&gt;인스턴스화 되지 않는다" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFD6CC;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LvGwFXpLTnDkfGoCwhkf-27" value="상호작용 타게팅을 위한 클래스&lt;br&gt;인스턴스화 되지 않는다" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFD6CC;sketch=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="8000" y="527.5" width="215" height="72.5" as="geometry" />
         </mxCell>
-        <mxCell id="LvGwFXpLTnDkfGoCwhkf-30" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LvGwFXpLTnDkfGoCwhkf-29" target="AAZlV12Gzx9VgUJV0CkU-423">
+        <mxCell id="LvGwFXpLTnDkfGoCwhkf-30" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LvGwFXpLTnDkfGoCwhkf-29" target="AAZlV12Gzx9VgUJV0CkU-423" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LvGwFXpLTnDkfGoCwhkf-29" value="피해량 연산을 위한 클래스&lt;br&gt;대부분의 게임은 피해 방식이 복잡하다" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFD6CC;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LvGwFXpLTnDkfGoCwhkf-29" value="피해량 연산을 위한 클래스&lt;br&gt;대부분의 게임은 피해 방식이 복잡하다" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFD6CC;sketch=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="8485" y="972" width="215" height="72.5" as="geometry" />
         </mxCell>
       </root>
