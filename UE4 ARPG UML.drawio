@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-31T17:09:37.251Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="_6zguviK9qoBwk6AvBA1" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-31T17:19:21.294Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="GVDJK2eUIHLsddgiK_Vq" version="14.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2844" dy="1544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="9000" pageHeight="5000" background="#EEEEEE" math="0" shadow="0">
+    <mxGraphModel dx="2370" dy="1287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="9000" pageHeight="5000" background="#EEEEEE" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -1990,7 +1990,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8bTrlrxU92rdFgRDy33D-351" value="NPC_SpawnBox" style="html=1;fontFamily=Verdana;fontStyle=1;fillColor=#C78FFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1751.25" y="1880" width="148.75" height="50" as="geometry" />
+          <mxGeometry x="990" y="1880" width="148.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8bTrlrxU92rdFgRDy33D-355" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;strokeWidth=2;fontColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8bTrlrxU92rdFgRDy33D-353" target="8bTrlrxU92rdFgRDy33D-354">
           <mxGeometry relative="1" as="geometry" />
@@ -2619,6 +2619,30 @@
         </mxCell>
         <mxCell id="8bTrlrxU92rdFgRDy33D-550" value="블루프린트 액터, 혹은 클래스가 다양해 구조가 복잡해 보이나&lt;br&gt;실제로는 어빌리티 시스템 데이터만을 담고 있는 빈 클래스가 대부분이다&lt;br&gt;또한 상속 구조 역시 자세히 살펴보면 크게 복잡하지 않다&lt;br&gt;&lt;br&gt;예를 들어, 아래의 GE_PlayerStats 클래스는 플레이어의 Attribute 정의를 위한 빈 블루프린트 클래스이다.&lt;br&gt;상속받은 함수와 변수를 제외하면 어떠한 스크립트와 변수도 존재하지 않는다" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFD6CC;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="5250" y="2378.25" width="600" height="141.75" as="geometry" />
+        </mxCell>
+        <mxCell id="8bTrlrxU92rdFgRDy33D-553" value="실제 캐릭터의 무기에 대한 정보&lt;br&gt;(메시, 공격 속도, 무기 타입 등)를 담고 있는 블루프린트" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFD6CC;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1965" y="2290" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="8bTrlrxU92rdFgRDy33D-554" value="플레이어 재화 아이템&lt;br&gt;블루프린트" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFD6CC;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1975" y="1988.25" width="190" height="73.25" as="geometry" />
+        </mxCell>
+        <mxCell id="8bTrlrxU92rdFgRDy33D-555" value="레벨에 배치되는 포션&lt;br&gt;블루프린트" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFD6CC;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1270" y="1856.75" width="190" height="73.25" as="geometry" />
+        </mxCell>
+        <mxCell id="8bTrlrxU92rdFgRDy33D-556" value="레벨에 NPC를 배치하는&lt;br&gt;블루프린트" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFD6CC;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="880" y="1976.75" width="200" height="73.25" as="geometry" />
+        </mxCell>
+        <mxCell id="8bTrlrxU92rdFgRDy33D-557" value="애니메이션 노티파이,&lt;br&gt;노티파이 스테이트" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFD6CC;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2850" y="2740" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8bTrlrxU92rdFgRDy33D-558" value="관전 관련 클래스" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFD6CC;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4250" y="2971.75" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8bTrlrxU92rdFgRDy33D-559" value="적대 NPC 캐릭터는&lt;br&gt;고블린, 거미(보스)가 있다" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFD6CC;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4550" y="2620" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8bTrlrxU92rdFgRDy33D-560" value="인벤토리 정보, 누적된 최고 점수 등을 저장한다" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFD6CC;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="110" y="1029.19" width="280" height="91.63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
